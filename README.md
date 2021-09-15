@@ -1,16 +1,13 @@
-### Hi there 👋
+# iRennegade
+### Programming Languages
+* JavaScript ( Basic )
+* HTML5
+* CSS3 ( very bad )
+* Node.JS
 
-<!--
-**iRennegade/iRennegade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hobbies
+* Make Discord Bots
+* Code webs
+* Learn new Programming Languages
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Image of Yaktocat](https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png)
