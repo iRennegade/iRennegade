@@ -2,7 +2,7 @@
 ### Programming Languages
 * JavaScript ( Normal )
 * HTML5
-* CSS3 ( very bad )
+* CSS3
 * Python
 * Typescript ( Basic )
 
