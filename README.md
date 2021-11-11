@@ -1,9 +1,14 @@
 # iRennegade
 ### Programming Languages
-* JavaScript ( Basic )
+* JavaScript ( Normal )
 * HTML5
 * CSS3 ( very bad )
+* Python
+* Typescript ( Basic )
+
+### Frameworks
 * Node.JS
+* React.JS ( basic )
 
 ### Hobbies
 * Make Discord Bots
