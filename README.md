@@ -10,6 +10,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=51></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width=43></img>
     <img src="https://amenys.com/wp-content/uploads/2020/02/c.png" width=56></img>
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=50></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=41></img><br><br>
   </p>
   <p align="center" align-items="center">
