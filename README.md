@@ -18,6 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width=50></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=46></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width=45></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=45</img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=43></img>
   </p>
 </p>
