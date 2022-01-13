@@ -19,6 +19,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=46></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width=45></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=45</img>
+    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" width=45></img>
+    <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" width=44></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=43></img>
   </p>
 </p>
