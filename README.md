@@ -57,6 +57,11 @@
     <a href="https://isocpp.org/" target="_blank">
       <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" alt="c++" width="40" height="40"/>
     </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png" alt="bash" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com/es/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>
   </div>
 </p>
 
