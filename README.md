@@ -1,6 +1,73 @@
-<h2 align="center">iRennegade</h3>
+<h2 align="center">iRennegade</h2>
 <p align="center" align-items="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=iRennegade"/><br><br>
+  <code>^-^</code>
+  </br>
+  </br>
+</p>
+
+<p align="left" align-items="left">
+  <h3>About Me</h4>
+  <code>
+    I want to b
+ e a Full-Stack JS Developer
+  </code>
+  </br>
+  <code>
+    I like make Websites
+  </code>
+  </br>
+  <code>
+    Becoming a Full-Stack JS Developer
+  </code>
+  </br>
+  </br>
+</p>
+
+<p align="right" align-items="right">
+  <h3 align="right">Github Stats</h3>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRennegade&layout=compact&exclude_repo=eslint-config&theme=algolia"></img>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+</p>
+
+<p align="center" align-items="center">
+  <h3 align="center">Things i know</h3>
+  <div align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.python.org" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+      <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" alt="c++" width="40" height="40"/>
+    </a>
+  </div>
+</p>
+
+<!--
+<h2 align="center">iRennegade</h2>
+<p align="center" align-items="center">
+  <img align="center" align-items="center" src="https://komarev.com/ghpvc/?username=iRennegade"/>
+</p>
+<p align="center"><code>Becoming a Full-Stack Developer</code></p><br>
+<p align="center" align-items="center">
+  <code>Social Media</code><br>
   <code>Stats</code><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRennegade&layout=compact&exclude_repo=eslint-config&theme=algolia"></img><br><br>
   <p align="center">
@@ -24,3 +91,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=43></img>
   </p>
 </p>
+-->
+<!-- https://lookup.guru/586435544750358540 -->
