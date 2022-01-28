@@ -8,8 +8,7 @@
 <p align="left" align-items="left">
   <h3>About Me</h4>
   <code>
-    I want to b
- e a Full-Stack JS Developer
+    Becoming a Full-Stack JS Developer
   </code>
   </br>
   <code>
@@ -17,7 +16,7 @@
   </code>
   </br>
   <code>
-    Becoming a Full-Stack JS Developer
+    I love Cats
   </code>
   </br>
   </br>
@@ -75,6 +74,18 @@
     </a>
     <a href="https://mongodb.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://babeljs.io" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://webpack.js.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
     </a>
   </div>
 </p>
