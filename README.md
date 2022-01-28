@@ -61,7 +61,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png" alt="bash" width="40" height="40"/>
     </a>
     <a href="https://www.java.com/es/" target="_blank">
-      <img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="java" width="40" height="40"/>
+      <img src="https://i.ibb.co/zxFZhLP/58480979cef1014c0b5e4901.png" alt="java" width="40" height="40"/>
   </div>
 </p>
 
