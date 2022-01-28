@@ -61,7 +61,21 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png" alt="bash" width="40" height="40"/>
     </a>
     <a href="https://www.java.com/es/" target="_blank">
-      <img src="https://i.ibb.co/zxFZhLP/58480979cef1014c0b5e4901.png" alt="java" width="40" height="40"/>
+      <img src="https://i.ibb.co/zxFZhLP/58480979cef1014c0b5e4901.png" alt="java" width="40"/>
+    </a>
+    </br>
+    <a href="https://reactjs.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
+    </a>
+    <a href="https://npmjs.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+    </a>
+    <a href="https://mongodb.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    </a>
   </div>
 </p>
 
