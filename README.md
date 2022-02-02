@@ -8,7 +8,7 @@
 <p align="left" align-items="left">
   <h3>About Me</h4>
   <code>
-    Becoming a Full-Stack JS Developer
+    Becoming a Full-Stack Developer
   </code>
   </br>
   <code>
