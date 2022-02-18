@@ -36,7 +36,7 @@
 </p>
 
 <p align="center" align-items="center">
-  <h3 align="center">Things i know</h3>
+  <h3 align="center">Knowledges</h3>
   <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
