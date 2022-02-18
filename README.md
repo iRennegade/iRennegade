@@ -8,7 +8,7 @@
 <p align="left" align-items="left">
   <h3>About Me</h4>
   <code>
-    Becoming a Full-Stack Developer
+    Full-Stack Developer
   </code>
   </br>
   <code>
@@ -16,7 +16,7 @@
   </code>
   </br>
   <code>
-    I love Cats
+    I love cats
   </code>
   </br>
   </br>
