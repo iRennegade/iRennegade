@@ -62,6 +62,9 @@
     <a href="https://www.java.com/es/" target="_blank">
       <img src="https://i.ibb.co/zxFZhLP/58480979cef1014c0b5e4901.png" alt="java" width="40"/>
     </a>
+    <a href="https://elixir-lang.org/" target="_blank">
+      <img src="https://plugins.jetbrains.com/files/7522/153556/icon/pluginIcon.svg" alt="elixir" width="40"/>
+    </a>
     </br>
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40"/>
