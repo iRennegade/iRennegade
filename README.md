@@ -87,8 +87,14 @@
     <a href="https://webpack.js.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
     </a>
+    <a href="https://mysql.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    </a
     <a href="https://nextjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/2048px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="aws" width="40" height="40"/>
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
