@@ -65,6 +65,9 @@
     <a href="https://elixir-lang.org/" target="_blank">
       <img src="https://plugins.jetbrains.com/files/7522/153556/icon/pluginIcon.svg" alt="elixir" width="40"/>
     </a>
+    <a href="https://golang.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="golang" width="40" height="40">
+    </a>
     </br>
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40"/>
